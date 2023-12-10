@@ -1,0 +1,254 @@
+[
+    {
+     "type": "start",
+     "place": 1
+    },
+    {
+     "type": "double",
+     "place": 2
+    },
+    {
+     "type": "normal",
+     "place": 3
+    },
+    {
+     "type": "normal",
+     "place": 4
+    },
+    {
+     "type": "normal",
+     "place": 5
+    },
+    {
+     "type": "normal",
+     "place": 6
+    },
+    {
+     "type": "normal",
+     "place": 7
+    },
+    {
+     "type": "normal",
+     "place": 8
+    },
+    {
+     "type": "normal",
+     "place": 9
+    },
+    {
+     "type": "normal",
+     "place": 10
+    },
+    {
+     "type": "normal",
+     "place": 11
+    },
+    {
+     "type": "normal",
+     "place": 12
+    },
+    {
+     "type": "normal",
+     "place": 13
+    },
+    {
+     "type": "normal",
+     "place": 14
+    },
+    {
+     "type": "normal",
+     "place": 15
+    },
+    {
+     "type": "normal",
+     "place": 16
+    },
+    {
+     "type": "normal",
+     "place": 17
+    },
+    {
+     "type": "normal",
+     "place": 18
+    },
+    {
+     "type": "normal",
+     "place": 19
+    },
+    {
+     "type": "normal",
+     "place": 20
+    },
+    {
+     "type": "normal",
+     "place": 21
+    },
+    {
+     "type": "normal",
+     "place": 22
+    },
+    {
+     "type": "normal",
+     "place": 23
+    },
+    {
+     "type": "normal",
+     "place": 24
+    },
+    {
+     "type": "normal",
+     "place": 25
+    },
+    {
+     "type": "normal",
+     "place": 26
+    },
+    {
+     "type": "normal",
+     "place": 27
+    },
+    {
+     "type": "normal",
+     "place": 28
+    },
+    {
+     "type": "normal",
+     "place": 29
+    },
+    {
+     "type": "normal",
+     "place": 30
+    },
+    {
+     "type": "normal",
+     "place": 31
+    },
+    {
+     "type": "normal",
+     "place": 32
+    },
+    {
+     "type": "normal",
+     "place": 33
+    },
+    {
+     "type": "normal",
+     "place": 34
+    },
+    {
+     "type": "normal",
+     "place": 35
+    },
+    {
+     "type": "normal",
+     "place": 36
+    },
+    {
+     "type": "normal",
+     "place": 37
+    },
+    {
+     "type": "normal",
+     "place": 38
+    },
+    {
+     "type": "normal",
+     "place": 39
+    },
+    {
+     "type": "normal",
+     "place": 40
+    },
+    {
+     "type": "normal",
+     "place": 41
+    },
+    {
+     "type": "normal",
+     "place": 42
+    },
+    {
+     "type": "normal",
+     "place": 43
+    },
+    {
+     "type": "normal",
+     "place": 44
+    },
+    {
+     "type": "normal",
+     "place": 45
+    },
+    {
+     "type": "normal",
+     "place": 46
+    },
+    {
+     "type": "normal",
+     "place": 47
+    },
+    {
+     "type": "normal",
+     "place": 48
+    },
+    {
+     "type": "normal",
+     "place": 49
+    },
+    {
+     "type": "normal",
+     "place": 50
+    },
+    {
+     "type": "normal",
+     "place": 51
+    },
+    {
+     "type": "normal",
+     "place": 52
+    },
+    {
+     "type": "normal",
+     "place": 53
+    },
+    {
+     "type": "normal",
+     "place": 54
+    },
+    {
+     "type": "normal",
+     "place": 55
+    },
+    {
+     "type": "normal",
+     "place": 56
+    },
+    {
+     "type": "normal",
+     "place": 57
+    },
+    {
+     "type": "normal",
+     "place": 58
+    },
+    {
+     "type": "thorn_bush",
+     "place": 59
+    },
+    {
+     "type": "normal",
+     "place": 60
+    },
+    {
+     "type": "well",
+     "place": 61
+    },
+    {
+     "type": "normal",
+     "place": 62
+    },
+    {
+     "type": "end",
+     "place": 63
+    }
+   ]
